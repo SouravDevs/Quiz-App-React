@@ -19,4 +19,9 @@ export const QuizData = [
         options: ["1996", "1995", "1994", "none of the above"],
         answer:2
     },
+    {
+        question: "Is Java or JavaScript is similar?",
+        options: ["90%", "Yes", "70%", "No"],
+        answer:2
+    }
 ];
